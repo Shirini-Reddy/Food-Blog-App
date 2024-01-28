@@ -1,0 +1,1 @@
+export const FOOD_DATA='FOOD_DATA';

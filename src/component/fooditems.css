@@ -1,0 +1,31 @@
+.food-items img{
+    width:300px;
+    height:200px;
+    display: flex;
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.food-items{
+ margin-bottom: 20px;
+}
+.food-items-container {
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  .food-details{
+    margin: 60px;
+
+  }
+  .food-details img{
+    width:350px;
+    height:400px;
+  }
+  .food-description
+  {
+    margin: 65px;
+  }
+  .food-description p{
+    font-size: 16px;
+  }

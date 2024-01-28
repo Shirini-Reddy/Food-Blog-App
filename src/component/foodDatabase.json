@@ -1,0 +1,377 @@
+{
+    "food":[
+        {
+        "id":"1",
+        "item_name": "Chicken Pepperoni Stuffed Garlic Bread",
+        "description": "Indulge in the savory delight of our Chicken Pepperoni Stuffed Garlic Bread. Immerse your taste buds in the exquisite combination of freshly baked garlic bread, generously stuffed with delectable chicken pepperoni and oozing melted cheese. Each bite offers a burst of flavors, complemented by the aromatic touch of basil and parsley. The result is a culinary masterpiece that brings together the richness of cheese, the spiciness of pepperoni, and the comforting warmth of garlic. Perfect for sharing with friends or savoring as a satisfying solo treat. Elevate your dining experience with our Chicken Pepperoni Stuffed Garlic Bread, a fusion of textures and tastes that will leave you craving for more.",
+        "image": "https://b.zmtcdn.com/data/dish_photos/17f/731e22c58e4b9571db474c7099b1817f.png",
+        "meal_type":"Non Vegetarian",
+        "item_price": "159",
+        "recipe": {
+            "ingredients": [
+              "Freshly Baked Garlic Bread",
+              "Delectable Chicken Pepperoni",
+              "Cheese",
+              "Basil Parsley for sprinkling"
+            ],
+            "instructions": [
+              "Preheat the oven to 350°F (175°C).",
+              "Slice the garlic bread lengthwise without cutting it completely through.",
+              "Stuff the bread with layers of Chicken Pepperoni and cheese.",
+              "Sprinkle Basil Parsley on top.",
+              "Place the stuffed garlic bread on a baking sheet.",
+              "Bake in the preheated oven for about 10-15 minutes or until the cheese is melted and bubbly.",
+              "Remove from the oven and let it cool for a few minutes.",
+              "Slice and serve your delicious Chicken Pepperoni Stuffed Garlic Bread!"
+            ] 
+          },
+        "details":"DETAILS"
+        },
+        {
+            "id":"2",
+            "item_name":"Garlic Breadsticks",
+            "description":"Savor the crispy perfection of our Garlic Breadsticks, a delightful accompaniment that elevates any meal to a culinary delight. Baked to golden-brown perfection, these breadsticks are your perfect pizza partner, offering a tantalizing blend of garlic-infused goodness. The aromatic minced garlic, combined with the richness of olive oil, creates a flavorful coating that adds a savory dimension to every bite. Topped with grated Parmesan cheese and chopped parsley, these breadsticks boast a satisfying crunch and a burst of Italian-inspired flavors. Whether enjoyed on their own or paired with your favorite dip, our Garlic Breadsticks are a timeless classic that promises to satisfy your cravings for a taste of comfort and indulgence.",
+            "image":"https://b.zmtcdn.com/data/dish_photos/03b/787727453bd857cff70be6560bfb603b.png",
+            "meal_type":"Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Garlic Breadsticks (store-bought or homemade)",
+                  "Olive oil",
+                  "Garlic cloves (minced)",
+                  "Parmesan cheese (grated)",
+                  "Parsley (chopped)"
+                ],
+                "instructions": [
+                  "Preheat the oven according to the instructions on the breadstick package or your homemade recipe.",
+                  "If using store-bought breadsticks, arrange them on a baking sheet. If making homemade breadsticks, follow your recipe's instructions for shaping and placing on a baking sheet.",
+                  "In a small bowl, mix minced garlic with olive oil.",
+                  "Brush the garlic and olive oil mixture over the breadsticks, ensuring even coverage.",
+                  "Sprinkle grated Parmesan cheese and chopped parsley on top.",
+                  "Bake in the preheated oven for the recommended time or until the breadsticks are golden brown and crispy.",
+                  "Remove from the oven and let them cool for a few minutes before serving.",
+                  "Serve the Garlic Breadsticks with your favorite dip and enjoy!"
+                ]
+              },
+            "item_price":"99",
+            "details":"DETAILS"
+        },
+        {
+            "id":"3",
+            "item_name":"Farmhouse Pizza",
+            "description":"Embark on a culinary journey with our Farmhouse Pizza, a delightful creation that captures the essence of fresh and wholesome ingredients. This pizza is a harmonious blend of flavors, featuring a foundation of perfectly baked pizza dough that serves as a canvas for a medley of vibrant toppings. Revel in the combination of sliced onions, colorful capsicum, juicy tomatoes, and grilled mushrooms that create a symphony of tastes and textures. The canvas is generously adorned with shredded mozzarella cheese, creating a gooey, cheesy goodness that binds all the elements together. Drizzled with a touch of olive oil for an extra layer of richness, this Farmhouse Pizza promises a rustic and satisfying experience. Garnished with fresh basil leaves for a final touch, it's a celebration of farm-fresh goodness in every bite.",
+            "image":"https://b.zmtcdn.com/data/dish_photos/a3d/7ca006ec8907c2ae13fd006cf0853a3d.png",
+            "meal_type":"Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Pizza dough (store-bought or homemade)",
+                  "Pizza sauce",
+                  "Mozzarella cheese (shredded)",
+                  "Onion (sliced)",
+                  "Capsicum (sliced)",
+                  "Tomato (sliced)",
+                  "Grilled mushrooms",
+                  "Olive oil",
+                  "Fresh basil leaves (optional)"
+                ],
+                "instructions": [
+                  "Preheat the oven according to the instructions on the pizza dough package or your homemade recipe.",
+                  "Roll out the pizza dough on a floured surface to your desired thickness.",
+                  "Transfer the rolled-out dough to a pizza stone or baking sheet.",
+                  "Spread a layer of pizza sauce evenly over the dough.",
+                  "Sprinkle shredded mozzarella cheese over the sauce.",
+                  "Arrange sliced onion, capsicum, tomato, and grilled mushrooms on top of the cheese.",
+                  "Drizzle a bit of olive oil over the vegetables for added flavor.",
+                  "Bake in the preheated oven until the crust is golden and the cheese is bubbly and lightly browned.",
+                  "Remove from the oven and let it cool for a few minutes.",
+                  "Optional: Garnish with fresh basil leaves before serving.",
+                  "Slice and enjoy your delicious Farmhouse Pizza!"
+                ]     
+            },
+            "item_price":229,
+            "details":"DETAILS"
+        },
+        {
+            "id":"4",
+            "item_name":"Indi Tandoori Paneer",
+            "description":"Indulge in the rich and flavorful experience of our Indi Tandoori Paneer. This dish is a celebration of authentic Indian spices and succulent paneer, offering a taste that's both hot and spicy. The star of the show is the marinated paneer cubes, which have absorbed a blend of traditional tandoori spices, including ginger-garlic paste, red chili powder, turmeric powder, coriander powder, cumin powder, and a hint of lemon juice. The skewered paneer is then expertly grilled to perfection, imparting a smoky and charred essence that elevates the dish.",
+            "image":"https://b.zmtcdn.com/data/dish_photos/665/febfde767bd3543e6b8d9094f2531665.jpg",
+            "meal_type":"Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Paneer cubes",
+                  "Capsicum (sliced)",
+                  "Yogurt",
+                  "Tandoori masala",
+                  "Ginger-garlic paste",
+                  "Red chili powder",
+                  "Turmeric powder",
+                  "Coriander powder",
+                  "Cumin powder",
+                  "Lemon juice",
+                  "Salt to taste",
+                  "Skewers (wooden or metal)"
+                ],
+                "instructions": [
+                  "In a bowl, mix yogurt, tandoori masala, ginger-garlic paste, red chili powder, turmeric powder, coriander powder, cumin powder, lemon juice, and salt to create the marinade.",
+                  "Add paneer cubes and sliced capsicum to the marinade. Coat them evenly and let it marinate for at least 1-2 hours (overnight for more flavor).",
+                  "Preheat the grill or oven to a high temperature.",
+                  "Thread marinated paneer cubes and capsicum slices onto skewers, alternating between them.",
+                  "Place the skewers on the grill or in the oven and cook until the paneer is cooked through and has a nice char.",
+                  "Remove from the heat and let it rest for a few minutes.",
+                  "Serve the Indi Tandoori Paneer skewers hot, garnished with fresh coriander and accompanied by your favorite chutney or sauce."
+                ]
+              },
+            "item_price":"249",
+            "details":"DETAILS"
+        },
+        {
+            "id":"5",
+            "item_name":"Creamy Tomato Pasta Pizza ",
+            "description":"Introducing our Creamy Tomato Pasta Pizza - a culinary fusion that combines the best of two beloved dishes, pasta, and pizza. This non-veg delight is a feast for the senses, featuring a delectable creamy tomato pasta topping, succulent BBQ pepper chicken, and a medley of green capsicum, red and yellow bell peppers.",
+            "image":"https://b.zmtcdn.com/data/dish_photos/b1f/b33c5c010ef9458bdf571b044553cb1f.jpg",
+            "meal_type":"Non Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Pizza dough",
+                  "Creamy tomato pasta sauce",
+                  "BBQ pepper chicken (pre-cooked)",
+                  "Green capsicum (sliced)",
+                  "Red bell pepper (sliced)",
+                  "Yellow bell pepper (sliced)",
+                  "Cheese (mozzarella or your choice)",
+                  "Olive oil",
+                  "Fresh basil leaves (optional)",
+                  "Chili flakes (optional)",
+                  "Salt and pepper to taste"
+                ],
+                "instructions": [
+                  "Preheat your oven to the recommended temperature for pizza baking.",
+                  "Roll out the pizza dough on a floured surface to your desired thickness.",
+                  "Transfer the rolled-out dough to a pizza stone or a baking sheet.",
+                  "Spread a layer of creamy tomato pasta sauce over the dough, leaving a border for the crust.",
+                  "Evenly distribute the pre-cooked BBQ pepper chicken, sliced green capsicum, red bell pepper, and yellow bell pepper over the sauce.",
+                  "Sprinkle a generous amount of cheese over the toppings.",
+                  "Drizzle a little olive oil over the pizza for added flavor.",
+                  "Bake the pizza in the preheated oven until the crust is golden and the cheese is melted and bubbly.",
+                  "Remove the pizza from the oven and let it cool for a few minutes.",
+                  "Optional: Garnish with fresh basil leaves and sprinkle chili flakes for extra spice.",
+                  "Slice and serve your Creamy Tomato Pasta Pizza - Non Veg hot."
+                ]
+              },
+            "item_price":"229",
+            "details":"DETAILS"
+        },
+        {
+            "id":"6",
+            "item_name":"Hot Chicken Wings-4 pcs",
+            "description":"Indulge in the fiery and flavorful experience of our Hot Chicken Wings - a tantalizing treat for spice enthusiasts and chicken wing aficionados alike. This delectable dish features four perfectly seasoned and expertly cooked chicken wings, each boasting a crispy exterior and succulent, tender meat on the inside.",
+            "image":"https://w7.pngwing.com/pngs/380/707/png-transparent-kfc-fried-chicken-buffalo-wing-french-fries-fried-chicken-food-recipe-chicken-thumbnail.png",
+            "meal_type":"Non Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Chicken wings (4 pcs)",
+                  "Vegetable oil (for frying)",
+                  "Seasoned flour (salt, pepper, paprika, garlic powder)",
+                  "Your favorite hot sauce",
+                  "Butter"
+                ],
+                "instructions": [
+                  "In a deep fryer or large pot, heat the vegetable oil to 375°F (190°C).",
+                  "In a bowl, mix the seasoned flour ingredients together.",
+                  "Dip each chicken wing into the seasoned flour mixture, ensuring they are well-coated.",
+                  "Fry the coated wings in batches until golden brown and crispy. This usually takes about 10-12 minutes per batch.",
+                  "While the wings are frying, prepare the hot sauce. In a saucepan, melt butter and mix in your favorite hot sauce to your desired level of spiciness.",
+                  "Once the wings are cooked, transfer them to a bowl and pour the hot sauce mixture over them. Toss the wings until they are evenly coated in the sauce.",
+                  "Serve the Hot Chicken Wings immediately with your favorite dipping sauce and enjoy!"
+                ]
+              },
+            "item_price":"179",
+            "details":"DETAILS"
+        },
+        {
+            "id":"7",
+            "item_name":"Grilled Chicken Tikka",
+            "description":"Savor the rich and aromatic flavors of our Grilled Chicken Tikka, a culinary delight that brings together traditional spices and expert grilling techniques. This dish features succulent pieces of boneless, skinless chicken that have been marinated to perfection in a blend of traditional Indian spices.",
+            "image":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTvORV1IV38fA3iyFrQU_mfJE1VAvqyrydJUU_sS9-RX-uwMx4",
+            "meal_type":"Non Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Chicken pieces (boneless, skinless)",
+                  "Yogurt",
+                  "Ginger-garlic paste",
+                  "Red chili powder",
+                  "Turmeric powder",
+                  "Garam masala",
+                  "Cumin powder",
+                  "Coriander powder",
+                  "Lemon juice",
+                  "Salt (to taste)",
+                  "Skewers (wooden or metal)"
+                ],
+                "instructions": [
+                  "In a bowl, mix yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, cumin powder, coriander powder, lemon juice, and salt to create the marinade.",
+                  "Cut the chicken into bite-sized pieces and add them to the marinade. Ensure each piece is well-coated. Marinate for at least 2 hours or overnight in the refrigerator.",
+                  "Preheat the grill or oven to medium-high heat.",
+                  "Thread the marinated chicken pieces onto skewers.",
+                  "Grill the chicken skewers for about 15-20 minutes, turning occasionally, until the chicken is fully cooked and has a nice char on the outside.",
+                  "Serve the Grilled Chicken Tikka hot, garnished with lemon wedges and fresh coriander. It pairs well with mint chutney or your favorite sauce."
+                ]
+              },
+            "item_price":"340",
+            "details":"DETAILS"
+        },
+        {
+            "id":"8",
+            "item_name":"Margherita Pizza",
+            "description":"Indulge in the timeless classic, our Margherita Pizza, where simplicity meets culinary excellence. This pizza is a celebration of the essentials, featuring a harmonious trio of fresh and high-quality ingredients that come together to create a flavor symphony.",
+            "image":"https://w7.pngwing.com/pngs/269/236/png-transparent-pizza-margherita-pasta-pizza-hut-restaurant-pizza-food-recipe-cooking-thumbnail.png",
+            "meal_type":"Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Pizza dough",
+                  "Tomato sauce",
+                  "Fresh mozzarella cheese (sliced)",
+                  "Fresh basil leaves",
+                  "Olive oil",
+                  "Salt",
+                  "Black pepper",
+                  "Optional: Grated Parmesan cheese"
+                ],
+                "instructions": [
+                  "Preheat your oven to the highest setting (usually around 475°F or 245°C). If you have a pizza stone, place it in the oven while preheating.",
+                  "Roll out the pizza dough on a lightly floured surface to your desired thickness. If using a pizza stone, transfer the rolled-out dough to a piece of parchment paper.",
+                  "Spread a thin layer of tomato sauce over the pizza dough, leaving a small border around the edges for the crust.",
+                  "Place slices of fresh mozzarella evenly over the tomato sauce.",
+                  "Add fresh basil leaves on top of the cheese.",
+                  "Drizzle olive oil over the pizza, and season with salt and black pepper to taste.",
+                  "If using a pizza stone, carefully transfer the pizza (with parchment paper) onto the preheated stone in the oven. Otherwise, place the pizza on a baking sheet.",
+                  "Bake in the preheated oven for about 10-15 minutes or until the crust is golden and the cheese is bubbly and slightly browned.",
+                  "Optional: Sprinkle grated Parmesan cheese over the hot pizza before serving.",
+                  "Slice and enjoy your delicious Margherita Pizza!"
+                ]
+              },
+            "item_price":"189",
+            "details":"DETAILS"
+        },
+        {
+            "id":"9",
+            "item_name":"BBQ Chicken Wings-6pcs",
+            "description":"Embark on a culinary journey with our BBQ Chicken Wings – a delectable treat that combines the succulence of tender chicken wings with the bold and smoky flavors of barbecue sauce. This dish is a testament to the irresistible allure of well-seasoned, perfectly cooked chicken, making it an ideal choice for those who appreciate the marriage of savory, sweet, and smoky notes.",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmnVTIUzL30Ital27UhNowOf5d2aEcT8G5tPBaXzLJaA&s",
+            "meal_type":"Non Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Chicken wings (6 pieces)",
+                  "Salt",
+                  "Black pepper",
+                  "Garlic powder",
+                  "Onion powder",
+                  "Smoky barbecue sauce"
+                ],
+                "instructions": [
+                  "Preheat your oven to 400°F (200°C).",
+                  "Clean and pat dry the chicken wings with paper towels.",
+                  "Season the wings with salt, black pepper, garlic powder, and onion powder. Toss the wings until evenly coated.",
+                  "Place a wire rack on a baking sheet lined with aluminum foil. Arrange the seasoned wings on the rack, leaving space between each piece.",
+                  "Bake in the preheated oven for about 45-50 minutes or until the wings are golden brown and crispy. You can flip the wings halfway through the cooking time for even crispiness.",
+                  "While the wings are baking, heat the smoky barbecue sauce in a saucepan over medium heat until warmed through.",
+                  "Once the wings are cooked, transfer them to a large bowl. Pour the warm barbecue sauce over the wings and toss until evenly coated.",
+                  "Serve the BBQ Chicken Wings hot, and enjoy!"
+                ]
+              },
+            "item_price":"149",
+            "details":"DETAILS"
+        },
+        {
+            "id":"10",
+            "item_name":"Vegetarian Supreme Pasta",
+            "description":"Indulge in the delightful medley of flavors and textures with our Vegetarian Supreme Pasta. This pasta dish is a celebration of vibrant, fresh vegetables, rich tomato sauce, and the comforting goodness of Parmesan cheese. Perfect for vegetarians and pasta enthusiasts alike, it promises a satisfying and wholesome dining experience.",
+            "image":"https://e7.pngegg.com/pngimages/38/556/png-clipart-pasta-pasta-thumbnail.png",
+            "meal_type":"Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Pasta of your choice",
+                  "Assorted fresh vegetables (e.g., bell peppers, cherry tomatoes, zucchini, mushrooms)",
+                  "Tomato sauce",
+                  "Olive oil",
+                  "Garlic cloves (minced)",
+                  "Parmesan cheese (grated)",
+                  "Salt and black pepper to taste",
+                  "Fresh basil leaves for garnish"
+                ],
+                "instructions": [
+                  "Cook the pasta according to package instructions. Drain and set aside.",
+                  "In a large skillet, heat olive oil over medium heat. Add minced garlic and sauté until fragrant.",
+                  "Add the assorted fresh vegetables to the skillet and sauté until they are tender but still crisp.",
+                  "Pour in the tomato sauce and stir to combine. Season with salt and black pepper to taste.",
+                  "Add the cooked pasta to the skillet, tossing to coat the pasta evenly with the sauce and vegetables.",
+                  "Remove the skillet from heat and sprinkle grated Parmesan cheese over the pasta. Toss again to combine and melt the cheese slightly.",
+                  "Garnish with fresh basil leaves.",
+                  "Serve the Vegetarian Supreme Pasta hot, and enjoy!"
+                ]
+              },
+            "item_price":"179",
+            "details":"DETAILS"
+        },
+        {
+            "id":"11",
+            "item_name":"Cheese Burst Calzone",
+            "description":"Indulge in the cheesy goodness of our Cheese Burst Calzone, a delightful creation that brings together the irresistible combination of gooey melted cheese, savory pepperoni slices, and vibrant bell peppers. This calzone is a true celebration of flavor, offering a satisfying and comforting experience with every bite.",
+            "image":"https://media-cdn.tripadvisor.com/media/photo-s/1a/89/9b/ec/cheese-burst-calzone.jpg",
+            "meal_type":"Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "Pizza dough",
+                  "Mozzarella cheese (shredded)",
+                  "Pepperoni slices",
+                  "Bell peppers (sliced)",
+                  "Pizza sauce",
+                  "Olive oil",
+                  "Garlic powder",
+                  "Italian seasoning",
+                  "Parmesan cheese (grated)"
+                ],
+                "instructions": [
+                  "Preheat your oven to the recommended temperature for pizza baking.",
+                  "Roll out the pizza dough on a floured surface to your desired thickness.",
+                  "In the center of the dough, layer shredded mozzarella cheese, pepperoni slices, and sliced bell peppers.",
+                  "Fold the sides of the dough over the filling, creating a half-moon shape. Pinch the edges to seal the calzone.",
+                  "In a small bowl, mix olive oil, garlic powder, and Italian seasoning. Brush this mixture over the top of the calzone.",
+                  "Using a knife, make a few small slits on the top of the calzone to allow steam to escape during baking.",
+                  "Bake in the preheated oven until the calzone is golden brown and the cheese is melted and bubbly.",
+                  "Remove from the oven and sprinkle grated Parmesan cheese over the top.",
+                  "Let it cool for a few minutes before slicing and serving.",
+                  "Enjoy your homemade Cheese Burst Calzone!"
+                ]
+              },
+            "item_price":"209",
+            "details":"DETAILS"
+        },
+        {
+            "id":"12",
+            "item_name":"Mango Tango Smoothie",
+            "description":" Refreshing smoothie made with ripe mangoes, yogurt, and a hint of honey",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJUe85g5QjbUk7xQ9c5uxwHO4n2BoK5CfdzPJ-pjJUQw&s",
+            "meal_type":"Vegetarian",
+            "recipe": {
+                "ingredients": [
+                  "2 ripe mangoes (peeled, pitted, and diced)",
+                  "1 cup plain yogurt",
+                  "1-2 tablespoons honey (adjust to taste)",
+                  "1 cup ice cubes",
+                  "Optional: Mint leaves for garnish"
+                ],
+                "instructions": [
+                  "In a blender, combine the diced ripe mangoes, plain yogurt, honey, and ice cubes.",
+                  "Blend on high speed until the mixture is smooth and creamy.",
+                  "Taste the smoothie and adjust the sweetness by adding more honey if needed.",
+                  "Pour the Mango Tango Smoothie into glasses.",
+                  "Optional: Garnish with fresh mint leaves for a burst of freshness.",
+                  "Serve immediately and enjoy your refreshing Mango Tango Smoothie!"
+                ]
+              },
+            "item_price":"79",
+            "details":"DETAILS"
+        }
+    ]
+}
